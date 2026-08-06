@@ -1,1 +1,6 @@
-<h1>this is a sample respository</h1>
+# this is a sample
+## this is a sample
+### this is a sample
+#### this is a sample
+##### this is a sample
+###### this is a sample
